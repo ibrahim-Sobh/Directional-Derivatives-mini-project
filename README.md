@@ -8,6 +8,6 @@ Our Gradients are  ∇F(x,y)= <∂F(x,y)\∂x, ∂F(x,y)\∂y> = < 3x²y - y³, 
 
 The vector Un is the normalized version of U 
 
-The Directional derviative is the dot product of the gradient and the normalized vector : G dot Un
+The Directional derviative is the dot product of the gradient and the normalized vector :  G @ Un
 
 Our Directional Derivative is DF(x,y)= ∇F(x,y).Un 
