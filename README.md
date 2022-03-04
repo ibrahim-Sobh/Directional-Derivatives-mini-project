@@ -6,7 +6,7 @@ Our function is  F(x,y) = x³y - xy³
 
 Our Gradients are  ∇F(x,y)= <∂F(x,y)\∂x, ∂F(x,y)\∂y> = < 3x²y - y³, x³ - 3xy² > - in this case we can call it. G 
 
-Un is the normalized version of U 
+The vector Un is the normalized version of U 
 
 The Directional derviative is the dot product of the gradient and the normalized vector : G dot Un
 
