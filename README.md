@@ -1,5 +1,5 @@
 # Directional-Derivatives-mini-project
-The idea behind this project is to give a certain point P(x,y) and a vector U <u1,u2> directing this point and this function will calulate the 
+The idea behind this project is to give a certain point P(x,y) and a vector U <u1,u2> directing this point and this program will calulate the 
 Directional Derivates & Gradients
 
 Our function is  F(x,y) = x³y - xy³
